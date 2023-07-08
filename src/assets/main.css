@@ -1,0 +1,14 @@
+*{
+  margin: 0px;
+  background-color: #404040;
+  color: white;
+  text-align: center;
+  
+}
+
+#app{
+  margin-top: 30svh;
+}
+span{
+  height: 20svh;
+}
